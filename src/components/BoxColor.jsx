@@ -9,8 +9,9 @@ function BoxColor(props) {
       backgroundColor: color,
       width: "90vw",
       height: "100px",
-      border: "2px solid black", 
-      borderRadius:"10px",
+      color:"white",
+      fontSize:"25px",
+      border: "2px solid black"
     };
   
     return (
